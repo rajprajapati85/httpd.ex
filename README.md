@@ -1,4 +1,5 @@
 # Apache HTTP Server (httpd) S2I Sample Application
+# Apache HTTP Server (httpd) S2I Sample Application
 
 This is a very basic sample application repository that can be built and deployed
 on [OpenShift](https://www.openshift.com) using the [Apache HTTP Server builder image](https://github.com/sclorg/httpd-container).
